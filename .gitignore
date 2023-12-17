@@ -1,0 +1,27 @@
+### standart template template
+### main template
+# python
+*.pyc
+__pychache__/
+local_settings.py
+.coverage
+
+
+# code editors
+.vs/
+.idea/
+.vscode/
+
+# logs
+*.log
+
+# IntelliJ project files
+*.iml
+out
+gen
+
+# venv
+venv/
+
+/output_files
+/input_files
